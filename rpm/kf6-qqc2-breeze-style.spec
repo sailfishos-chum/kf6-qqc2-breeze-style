@@ -1,5 +1,5 @@
 Name:    kf6-qqc2-breeze-style
-Version: 6.2.0
+Version: 6.1.90
 Release: 0%{?dist}
 Summary: QtQuickControls2 breeze style
 
@@ -24,6 +24,7 @@ BuildRequires: kf6-kirigami-devel
 BuildRequires: kf6-kquickcharts-devel
 BuildRequires:  qt6-qtbase-devel
 BuildRequires:  qt6-qtdeclarative-devel
+BuildRequires:  qt6-qttools-devel
 
 %description
 This is a pure Qt Quick/Kirigami Qt Quick Controls style.
